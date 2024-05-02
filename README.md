@@ -2,6 +2,8 @@
 
 This Python project allows users to encode and decode messages using steganography techniques. Steganography is the practice of concealing a message within another non-secret data, such as hiding a message within an image.
 
+I used this as a password manager but it obviously has many other uses.
+
 ## Table of Contents
 
 - [Installation](#installation)
